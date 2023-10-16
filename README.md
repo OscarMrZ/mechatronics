@@ -4,4 +4,4 @@ This is my secret vault of knowledge about Mechatronics, a subject imparted by t
 
 All this content is based on Obijuan's [sacred texts](https://github.com/myTeachingURJC/Mecatronica). 
 
-![Alt Text](https://media.tenor.com/iy9ruW7jrbkAAAAC/star-wars-luke-skywalker.gif)
+![Cool Star Wars GIF](https://media.tenor.com/iy9ruW7jrbkAAAAC/star-wars-luke-skywalker.gif)
